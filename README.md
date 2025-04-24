@@ -19,3 +19,32 @@ Don't diddle code to make it faster - find a better algorithm.
 - 100 10 道 LeetCode 风格的简单题目
 - 101 10 道高级 LeetCode 题目及 TypeScript 解答
 - 102 20 道 React + TypeScript 高级面试题及解答
+
+## React+TS 面试题和知识点
+
+目录在`React+TS面试题和知识点`文件夹里面。
+
+- 102 20 道 React + TypeScript 高级面试题及解答
+- 10 道 react + typescrip 的高级大型面试题
+- 15 道偏向 React 技术的前端面试题及详细答案
+- 2025 年的技术演进和行业趋势
+- 5 道前端面试题
+- Lodash 替代方案与现代工具库推荐
+- Q1-5 到前端面试题
+- React + TypeScript 银行系统前端测试框架的完整方案
+- React 18 和 React 19（基于公开讨论和路线图）的十道高级面试题
+- React 19 作为一次重大版本更新
+- React 如何利用 WebAssembly 加速计算（附完整案例）
+- React 中使用数据不可变性优化渲染的案例
+- React 开发中最容易出现的错误写法及其解决方案
+- React.FC 被官方建议弃用的背景
+- Web Worker 适用场景与不适用场景分析
+- 从 React 的严格模式出发
+- 关于 React+TypeScript 技术栈中已淘汰的实践、当前高级写法及复杂项目管理策略的总结
+- 结合 yup，Zod 或 io-ts 实现运行时类型校验
+- 编写高质量 React 代码的具体策略和实际案例
+- 逐步排查和解决 React 组件的性能问题
+- 前端数值计算与精度处理
+- 银行系统前端复杂项目搭建指南
+- 核心特点、难点、优点以及编写高质量 React 代码的关键策略
+- 前端主管管理复杂金融项目，需在技术、流程、团队三个维度构建体系化策略
